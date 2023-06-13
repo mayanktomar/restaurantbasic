@@ -1,0 +1,63 @@
+p {
+ font-style: italic;
+ font-weight: 900;
+}
+
+#borderpara {
+  border-style: dashed;
+  border-width: 2px 4px;
+  border-color: orange;
+  padding: 5px;
+  margin: 2px 4px 6px 8px;
+  height: 100px;
+  width: 50%;
+  overflow: auto;
+}
+
+
+#divone{
+  border-style: dashed;
+  border-width: 2px 4px;
+  border-color: orange;
+  height: 100px;
+  width: 50%;
+  position: relative;
+}
+
+#divtwo {
+  border-style: dashed;
+  border-width: 2px 4px;
+  border-color: orange;
+  height: 50px;
+  width: 50%;
+}
+
+#divthree {
+  border-style: dashed;
+  border-width: 2px 4px;
+  border-color: orange;
+  height: 25px;
+  width: 50%;
+  position: absolute;
+  right: 50px;
+}
+
+.flex-container {
+  /* display: flex; */
+  flex-direction: row;
+  margin: auto;
+}
+
+.flex-item {
+  height: 50px;
+  width: 50px;
+  background-color: yellow;
+  border-width: 5px;
+  border-style: dashed;
+}
+
+
+
+
+
+
