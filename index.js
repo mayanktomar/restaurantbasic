@@ -43,7 +43,19 @@ function changeImage() {
   imageElement.src = imageSources[indexForImage];
 }
 
-let a = 15.78;
-let n = Math.random();
-console.log(n)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
